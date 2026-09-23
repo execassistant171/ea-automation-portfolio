@@ -28,7 +28,7 @@ Currently completing an AI-for-business course focused on applying AI tools to a
 
 **Board Meeting Coordination** — Coordinated logistics and scheduling for year-round board meetings end-to-end.
 
+**H1 Team Integration Program — Led end-to-end logistics for an 8-person team integration program across 8 different home and destination locations, covering visas, sponsorship and invitation letters, flights, and accommodation.
+
 **Offsite Project Ownership (A–Z)** — Owned the full offsite project end-to-end, including resolving unpaid extra-night charges after a hotel checkout error and reconciling directly with affected team members post-trip.
 
----
-*Open to discussing specific tools, prompts, or workflows used in each of the above.*

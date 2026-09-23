@@ -26,7 +26,7 @@ Currently completing an AI-for-business course focused on applying AI tools to a
 
 **Travel Insurance Sourcing** — After a cancellation wasn't covered under the standard policy, sourced and compared quotes from providers for voluntary-cancellation coverage to close the gap for future bookings.
 
-**Board Meeting Coordination** — Coordinated logistics and scheduling for Q3 and Q4 board meetings end-to-end.
+**Board Meeting Coordination** — Coordinated logistics and scheduling for year-round board meetings end-to-end.
 
 **Offsite Project Ownership (A–Z)** — Owned the full offsite project end-to-end, including resolving unpaid extra-night charges after a hotel checkout error and reconciling directly with affected team members post-trip.
 

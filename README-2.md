@@ -3,7 +3,7 @@
 A summary of tools, systems, and workflows I've built or introduced to reduce manual work and improve efficiency in my role as Executive Assistant to the CEO.
 
 ## Email Templates for Executive Correspondence
-Drafted a set of ready-to-use email templates to reduce the CEO's day-to-day workload on recurring correspondence, cutting down time spent drafting routine replies from scratch.
+Drafted a set of one-click ready-to-use email templates to reduce the CEO's day-to-day workload on recurring correspondence, cutting down time spent drafting routine replies from scratch.
 
 ## Inbox Organization System
 Researched and implemented an inbox management system (snoozing, labeling, prioritization rules) for the CEO's inbox, cutting daily triage time by ~45 minutes and surfacing high-priority items faster.

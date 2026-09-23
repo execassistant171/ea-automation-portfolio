@@ -6,7 +6,7 @@ A summary of tools, systems, and workflows I've built or introduced to reduce ma
 Drafted a set of one-click ready-to-use email templates to reduce the CEO's day-to-day workload on recurring correspondence, cutting down time spent drafting routine replies from scratch.
 
 ## Inbox Organization System
-Researched and implemented an inbox management system (snoozing, labeling, prioritization rules) for the CEO's inbox, cutting daily triage time by ~45 minutes and surfacing high-priority items faster.
+Researched and implemented an inbox management system for the CEO's inbox — including a traffic light labeling system (red/yellow/green priority flags) alongside snoozing and folder rules — cutting daily triage time by ~45 minutes and surfacing high-priority items faster.
 
 ## Calendar Audit & Optimization
 Conducted a full analysis of the CEO's calendar over a 12-month period at his request, surfacing patterns in time allocation and informing changes to recurring meeting structure (e.g. adjusting standing catch-up slots, adding agendas to improve meeting efficiency).
